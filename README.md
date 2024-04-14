@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Node.js, React and responsive mobile web apps**
 
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **State Management**
 
 - 👯 I’m looking to collaborate on **Projects that will help many, many people**
 
